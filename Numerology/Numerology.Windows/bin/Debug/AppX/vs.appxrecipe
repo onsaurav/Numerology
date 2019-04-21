@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ONS</Machine>
+    <WindowsUser>KartikChandra</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>afa3149a-be5e-443f-9b01-d4d108e9cb29</PackageIdentityName>
+    <IntermediateOutputPath>D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3C0FE77816E3B5A88A37F963F4B9AA46A70D841197EAF9397B5044EE3D04BB3A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>afa3149a-be5e-443f-9b01-d4d108e9cb29_1.0.0.0_neutral__q1kh39ajdffn8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>afa3149a-be5e-443f-9b01-d4d108e9cb29_q1kh39ajdffn8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>afa3149a-be5e-443f-9b01-d4d108e9cb29</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=KartikChandra</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-24T17:56:20.669</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\bin\Debug\Numerology.Windows.exe">
+      <PackagePath>Numerology.Windows.exe</PackagePath>
+      <Modified>2016-05-24T17:56:20.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\bin\Debug\Numerology.Windows.xr.xml">
+      <PackagePath>Numerology.Windows.xr.xml</PackagePath>
+      <Modified>2016-05-24T17:46:20.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-24T17:56:19.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-24T17:56:19.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My Soft\WorkingSpace\Apps\Numerology\Numerology\Numerology.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-24T17:56:20.422</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
